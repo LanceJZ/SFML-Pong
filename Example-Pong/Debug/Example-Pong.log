@@ -1,0 +1,11 @@
+﻿Build started 10/10/2015 3:29:41 PM.
+     1>Project "E:\Documents\Visual Studio 2015\Projects\VS2015C++\SFML\Example-Pong\Example-Pong\Example-Pong.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Documents\Visual Studio 2015\Projects\VS2015C++\SFML\Example-Pong\Debug\Example-Pong.exe" /INCREMENTAL /NOLOGO /LIBPATH:"E:\Documents\Visual Studio 2015\Projects\VS2015C++\SFML\Example-Pong\..\lib\Debug\\" /LIBPATH:"E:\Documents\Visual Studio 2015\Projects\VS2015C++\SFML\Example-Pong\..\extlibs\libs-msvc\x86" comdlg32.lib advapi32.lib "sfml-audio-s-d.lib" "sfml-graphics-s-d.lib" "sfml-network-s-d.lib" "sfml-window-s-d.lib" "sfml-system-s-d.lib" "sfml-main-d.lib" "..\..\extlibs\libs-msvc-universal\x86\openal32.lib" "..\..\extlibs\libs-msvc-universal\x86\vorbisenc.lib" "..\..\extlibs\libs-msvc-universal\x86\vorbisfile.lib" "..\..\extlibs\libs-msvc-universal\x86\vorbis.lib" "..\..\extlibs\libs-msvc-universal\x86\ogg.lib" "..\..\extlibs\libs-msvc-universal\x86\flac.lib" winmm.lib opengl32.lib "..\..\extlibs\libs-msvc-universal\x86\freetype.lib" "..\..\extlibs\libs-msvc-universal\x86\jpeg.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\Documents\Visual Studio 2015\Projects\VS2015C++\SFML\Example-Pong\Debug\Example-Pong.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Documents\Visual Studio 2015\Projects\VS2015C++\SFML\Example-Pong\Debug\Example-Pong.lib" /MACHINE:X86 /SAFESEH Debug\Pong.obj
+            Creating library E:\Documents\Visual Studio 2015\Projects\VS2015C++\SFML\Example-Pong\Debug\Example-Pong.lib and object E:\Documents\Visual Studio 2015\Projects\VS2015C++\SFML\Example-Pong\Debug\Example-Pong.exp
+         Example-Pong.vcxproj -> E:\Documents\Visual Studio 2015\Projects\VS2015C++\SFML\Example-Pong\Debug\Example-Pong.exe
+     1>Done Building Project "E:\Documents\Visual Studio 2015\Projects\VS2015C++\SFML\Example-Pong\Example-Pong\Example-Pong.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.48
